@@ -6,6 +6,7 @@
 - 
       linkedin: www.linkedin.com/in/marymSalah
       
+- 👩‍💻 Link to My **[Projects](https://github.com/marymSalah/Projects)**  
 
 <!---
 marymSalah/marymSalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
