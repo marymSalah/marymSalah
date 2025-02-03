@@ -27,7 +27,9 @@
 <h2> 🔗 &nbsp;Connect With Me</h2>
 <p align="left">
 Explore my projects on <a href="https://github.com/marymSalah/Projects" target="_blank"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" /></a>
+  
 Connect with me on <a href="https://www.linkedin.com/in/marymSalah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-marymSalah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+
 Reach me at <a href="mailto:Mrymsaleh03@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mrymsaleh03-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
